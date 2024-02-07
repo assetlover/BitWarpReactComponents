@@ -1,6 +1,6 @@
 import React from 'react';
 import {useNavigate} from 'react-router-dom'
-const imagePath = ('/media/aditya/Data/learning coding/pbl6/BitWarpReactComponents/reactComponents/src/images/pexels-markus-spiske-1089438.jpg');
+const imagePath = ('image-path-here');
 const headingonecss="mt-5 p-2 text-white font-bold text-4xl"
 const cardcss="rounded-md shadow-md min-h-96 max-h-full min-w-68 max-w-96 bg-[#1F2229] flex flex-col justify-center p-5 shadow-[0px_0px_20px_5px_#000000]"
 const inputcss="rounded mt-2 p-1 min-w-screen border-2"
